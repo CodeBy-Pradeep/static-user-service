@@ -1,6 +1,11 @@
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
+*.iml
+.idea/
+.vscode/
+application-dev.yml
+application-prod.yml
 !**/src/main/**/target/
 !**/src/test/**/target/
 
